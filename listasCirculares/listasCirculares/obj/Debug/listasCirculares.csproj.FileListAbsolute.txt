@@ -1,0 +1,9 @@
+C:\Users\niri\Documents\PROGRAMACION\listasCirculares\listasCirculares\bin\Debug\listasCirculares.exe.config
+C:\Users\niri\Documents\PROGRAMACION\listasCirculares\listasCirculares\bin\Debug\listasCirculares.exe
+C:\Users\niri\Documents\PROGRAMACION\listasCirculares\listasCirculares\bin\Debug\listasCirculares.pdb
+C:\Users\niri\Documents\PROGRAMACION\listasCirculares\listasCirculares\obj\Debug\listasCirculares.csprojResolveAssemblyReference.cache
+C:\Users\niri\Documents\PROGRAMACION\listasCirculares\listasCirculares\obj\Debug\listasCirculares.Form1.resources
+C:\Users\niri\Documents\PROGRAMACION\listasCirculares\listasCirculares\obj\Debug\listasCirculares.Properties.Resources.resources
+C:\Users\niri\Documents\PROGRAMACION\listasCirculares\listasCirculares\obj\Debug\listasCirculares.csproj.GenerateResource.Cache
+C:\Users\niri\Documents\PROGRAMACION\listasCirculares\listasCirculares\obj\Debug\listasCirculares.exe
+C:\Users\niri\Documents\PROGRAMACION\listasCirculares\listasCirculares\obj\Debug\listasCirculares.pdb
